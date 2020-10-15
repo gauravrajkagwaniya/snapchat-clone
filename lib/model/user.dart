@@ -1,0 +1,1 @@
+class User{  final String imageLink;  final String otherUserLink;  User({this.imageLink, this.otherUserLink});}
