@@ -6,4 +6,4 @@
 ####### *** here is the gif of the snapchat clone *** ####
 
              
-                 ![](snapchat_clone.gif)
+                 ![](snapclone.gif)
