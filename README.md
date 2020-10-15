@@ -5,5 +5,4 @@
 
 ####### *** here is the gif of the snapchat clone *** ####
 
-             
-                 ![](snapclone.gif)
+   *************![](snapclone.gif)*************
